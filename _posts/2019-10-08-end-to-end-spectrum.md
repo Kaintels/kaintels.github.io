@@ -2,7 +2,7 @@
 layout: post
 title: End-to-End Learning From spectrum data 논문 정리
 slug: End-to-End Learning From spectrum data 논문 정리
-tag: [Achievement]
+tag: [Post]
 description: >
   End-to-End Learning From spectrum data 논문을 리뷰합니다.
 ---

@@ -3,7 +3,7 @@ layout: list
 title: Achievement
 slug: Achievement
 menu: true
-order: 1
+order: 2
 description: >
-  Introduces personal achievements of the undergraduate and master's courses.
+  그동안 제가 이룬 것을 소개합니다.
 ---
