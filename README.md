@@ -1,1 +1,0 @@
-# https://blastak.github.io
