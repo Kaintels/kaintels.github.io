@@ -15,11 +15,11 @@ blastak:
 
   # This photo will be used in the about section
   picture:
-    src:             ![me.jpg](https://github.com/Kaintels/kaintels.github.io/blob/master/assets/img/me.jpg)
+    src:             ![me](https://user-images.githubusercontent.com/38157496/98454940-df0a8700-21ad-11eb-9391-2ac66355b079.jpg)
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            ![me.jpg](https://github.com/Kaintels/kaintels.github.io/blob/master/assets/img/me.jpg)
-      2x:            ![me.jpg](https://github.com/Kaintels/kaintels.github.io/blob/master/assets/img/me.jpg)
+      1x:            ![me](https://user-images.githubusercontent.com/38157496/98454940-df0a8700-21ad-11eb-9391-2ac66355b079.jpg)
+      2x:            ![me](https://user-images.githubusercontent.com/38157496/98454940-df0a8700-21ad-11eb-9391-2ac66355b079.jpg)
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -73,7 +73,7 @@ mdo:
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
     Open `_data/authors.yml` to edit this text.
-  picture:           ![me.jpg](https://github.com/Kaintels/kaintels.github.io/blob/master/assets/img/me.jpg)
+  picture:           ![me](https://user-images.githubusercontent.com/38157496/98454940-df0a8700-21ad-11eb-9391-2ac66355b079.jpg)
   social:
     github:          <username>
     twitter:         <username>
