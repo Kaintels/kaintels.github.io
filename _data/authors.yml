@@ -18,8 +18,8 @@ blastak:
     src:             ![me.jpg](https://github.com/Kaintels/kaintels.github.io/blob/master/assets/img/me.jpg)
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      1x:            ![me.jpg](https://github.com/Kaintels/kaintels.github.io/blob/master/assets/img/me.jpg)
+      2x:            ![me.jpg](https://github.com/Kaintels/kaintels.github.io/blob/master/assets/img/me.jpg)
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -73,7 +73,7 @@ mdo:
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
     Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
+  picture:           ![me.jpg](https://github.com/Kaintels/kaintels.github.io/blob/master/assets/img/me.jpg)
   social:
     github:          <username>
     twitter:         <username>
