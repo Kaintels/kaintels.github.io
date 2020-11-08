@@ -11,11 +11,11 @@ blastak:
     저는 인간을 위한 제품을 만들고 싶은 대학원생입니다.
     항상 새로운 기술에 대한 호기심이 가득하며, 동료들의 고충을 항상 이해하며 도와주고 있습니다. 
     다양한 기술,데이터를 이용하여 제품을 만들어내는것에 행복을 느낍니다.
-    
+
 
   # This photo will be used in the about section
   picture:
-    src:             ./assets/img/me.jpg
+    src:             assets/img/me.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://placehold.it/128x128
