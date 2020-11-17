@@ -8,8 +8,6 @@ order: 3
 ### 🔭 Career
 - Received the B.S. degrees, in Car Mechatronics from Sahmyook University, Seoul, Korea, in 2019.
 - Since 2019, Joined the [BCML](http://bcml.kw.ac.kr/). Seoul, Korea, as **Master Candidate** of Kwangwoon University.
-- TA of **Assembly language**, in Kwangwoon University, 2019.09 ~ 2019.12, 2020.09 ~ 2020.12
-- TA of **Machine Learning**, in Kwangwoon University, 2020.03 ~ 2020.06
 
 ### 🔥 Interested in
 
