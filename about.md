@@ -38,6 +38,7 @@ order: 3
 - TA of **Basic computer engineering lab**, in Kwangwoon University, 2019.03 ~ 2019.06
 
 ### 📃 Publications
+- S. Han, H. Eom, J. Kim, C. Park, "Optimal DNN architecture search using Bayesian Optimization Hyperband for arrhythmia detection", The 2020 IEEE MTT-S Wireless Power Transfer Conference, 2020
 - [유현수， 한승우， 박철수, "단일채널 수면뇌파 분석을 위한 컨볼루션 신경망 모델 최적화", 대한전자공학회 학술대회, 1205-1208, 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10448123)
 - [S. Han, W. Lee, H. Eom, J. Kim, C. Park, "Detection of Arrhythmia using 1D Convolution Neural Network with LSTM Model", IEIE Transactions on Smart Processing & Computing 9 (4), 261-265, 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE09417477)
 - [H. Eom, D. Lee, S. Han, Y.S. Hariyani, Y. Lim, I. Sohn, K. Park, C. Park, "End-To-End Deep Learning Architecture for Continuous Blood Pressure Estimation Using Attention Mechanism", Sensors 20 (8), 2338, 2020](https://www.mdpi.com/1424-8220/20/8/2338)
