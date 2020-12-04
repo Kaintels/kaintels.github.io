@@ -19,7 +19,7 @@ description: >
 
 인용 : 92회
 
-논문 :
+논문 : [:arrow_right:](http://ieeexplore.ieee.org/document/8325299/)
 
 ## Introduction
 
@@ -161,4 +161,8 @@ Data-Driven end-to-end learning for wireless signal classification
 
 ## Implementation
 
-[Here](https://github.com/Kaintels/paper-list/blob/master/Networks%20and%20data%20communication/Modulation%20and%20interference%20identification/End-to-End%20Learning%20From%20Spectrum%20Data/main.ipynb)
+[:arrow_right:](https://github.com/Kaintels/paper-list/blob/master/Networks%20and%20data%20communication/Modulation%20and%20interference%20identification/End-to-End%20Learning%20From%20Spectrum%20Data/main.ipynb)
+
+## Presentation
+
+[:arrow_right:](https://github.com/Kaintels/paper-list/blob/master/Networks%20and%20data%20communication/Modulation%20and%20interference%20identification/End-to-End%20Learning%20From%20Spectrum%20Data/%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%ED%95%9C%EC%8A%B9%EC%9A%B0_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9.pdf)
